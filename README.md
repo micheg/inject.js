@@ -1,29 +1,17 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Simple script for load js and css at runtime
 
-### What is this repository for? ###
+### inject_js ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Version: 01
+* [See BLOG](micheg.blogspot.com)
 
-### How do I get set up? ###
+### Install ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Simply include it: <script src="inject_js.js"></script>
 
-### Contribution guidelines ###
+### Using ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* import_js(url, call_back_function);
+* import_css(url, call_back_function);
