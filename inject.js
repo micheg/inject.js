@@ -35,7 +35,7 @@
             var cssId = 'cssid' + (Math.random() * 100).toString();
             tmp_link.id   = cssId;
             tmp_link.rel  = 'stylesheet';
-            tmp_link.type = 'text/css';
+            tmp_link.type = 'text\/css';
             tmp_link.href = url;
             tmp_link.media = 'all';
             tmp_link.onerror = load_error;
