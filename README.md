@@ -5,7 +5,7 @@ Simple script for load js and css at runtime
 ### inject_js ###
 
 * Version: 01
-* [See BLOG](micheg.blogspot.com)
+* [See BLOG](http://micheg.blogspot.com)
 
 ### Install ###
 
